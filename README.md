@@ -26,4 +26,3 @@ As a Certified Instructor, I have delivered training programs in programming, co
 
 ## Portfolio
 For more details and project samples:  https://khaledahmed.net/
-:contentReference[oaicite:0]{index=0}
