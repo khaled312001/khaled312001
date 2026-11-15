@@ -8,13 +8,16 @@ Senior full stack developer and team lead. I build production web, mobile and Sa
 
 ### Stack
 
-**Languages:** TypeScript, JavaScript, PHP, Python, SQL, Kotlin
-**Backend:** Node.js, NestJS, Express, Laravel, REST, WebSockets, BullMQ, Redis
-**Frontend:** Next.js, React, Tailwind CSS, TanStack Query, Three.js
-**Mobile and desktop:** React Native, Expo, Android (Kotlin), Electron
-**Data:** PostgreSQL, MySQL, MongoDB, Prisma, Drizzle
-**AI:** Claude API, structured output with Zod, tool calling and agents, RAG, speech-to-text
-**Delivery:** Docker, GitHub Actions, Linux servers, Vercel, Cloudflare
+| Area | Tools |
+|---|---|
+| Languages | TypeScript, JavaScript, PHP, Python, SQL, Kotlin |
+| Backend | Node.js, NestJS, Express, Laravel, REST, WebSockets, BullMQ, Redis |
+| Frontend | Next.js, React, Tailwind CSS, TanStack Query, Three.js |
+| Mobile and desktop | React Native, Expo, Android (Kotlin), Electron |
+| Data | PostgreSQL, MySQL, MongoDB, Prisma, Drizzle |
+| AI | Claude API, structured output with Zod, tool calling and agents, RAG, speech-to-text |
+| Delivery | Docker, GitHub Actions, Linux servers, Vercel, Cloudflare |
+| Practice | Clean architecture, SOLID, code review, Scrum, automated tests with Jest, Vitest and Playwright |
 
 ### Selected work
 
