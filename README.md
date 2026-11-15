@@ -34,4 +34,4 @@ More live work at [khaledahmed.net](https://khaledahmed.net).
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/khaled-ahmed-82368819b) · [Portfolio](https://khaledahmed.net) · khaledahmedhaggagy@gmail.com
+[LinkedIn](https://linkedin.com/in/khaled-ahmed-dev) · [Portfolio](https://khaledahmed.net) · khaledahmedhaggagy@gmail.com
